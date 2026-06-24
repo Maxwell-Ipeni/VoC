@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+**Voice of Customers – Customer Feedback & CX Analytics Platform**
+
+* Built a customer experience platform that captures voice-based customer feedback and automatically converts it into text using transcription.
+* Integrated sentiment and emotion analysis to understand customer feelings, satisfaction levels, and pain points.
+* Analysed customer experience metrics to identify trends, recurring issues, and improvement opportunities.
+* Generated actionable insights to help organisations improve service delivery, customer retention, and business growth.
+* Designed the solution with practical business use cases in mind, especially for organisations that rely heavily on customer trust, feedback, and continuous service improvement.
+
 
 ## Getting Started
 
